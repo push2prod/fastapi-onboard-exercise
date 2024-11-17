@@ -46,8 +46,8 @@ The project is organized as follows:
 To get started, clone the repository and install the dependencies:
 
 ```bash
-git clone <repo_url>
-cd <repo_directory>
+git clone https://github.com/push2prod/fastapi-onboard-exercise.git
+cd fastapi-onboard-exercise
 ```
 
 ### Install dependencies
